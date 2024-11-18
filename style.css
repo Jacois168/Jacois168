@@ -1,0 +1,12 @@
+body {
+    display: flex; /* Use Flexbox to center the canvas */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full screen height */
+    background: #000; /* Background color black */
+    margin: 0; /* Remove default margins */
+}
+
+canvas {
+    border: 1px solid #fff; /* White border for the canvas */
+}
